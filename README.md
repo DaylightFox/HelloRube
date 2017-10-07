@@ -7,5 +7,6 @@ All you need to do is simply contribute a hello world script, in any abstract or
 ## Contributors
 Feel free to add your username here :)
 
-* DaylightFox
-* purenaturalism
+* [DaylightFox](https://github.com/DaylightFox)
+* [purenaturalism](https://github.com/purenaturalism)
+* [Cutwell](https://github.com/Cutwell)
