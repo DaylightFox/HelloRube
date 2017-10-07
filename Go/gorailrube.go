@@ -27,7 +27,6 @@ func ello(arr []string) {
 }
 
 func helloWorld() (hello string) {
-
 	defer func() {
 		if r := recover(); r != nil {
 			fmt.Printf(" ")
