@@ -8,6 +8,7 @@ All you need to do is simply contribute a hello world script, in any abstract or
 Feel free to add your username here :)
 
 * [DaylightFox](https://github.com/DaylightFox)
+* [lokiiarora](https://github.com/lokiiarora)
 * [purenaturalism](https://github.com/purenaturalism)
 * [Cutwell](https://github.com/Cutwell)
 * [matgraham](https://github.com/matgraham)
