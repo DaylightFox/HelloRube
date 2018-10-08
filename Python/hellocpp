@@ -1,0 +1,19 @@
+import os
+import sys
+
+file = open('helloworld.cpp', 'w')
+
+file.write('#include <iostream>\n\n')
+file.write('int main()\n')
+file.write('{\n')
+file.write('\tstd::cout << "Hello World!\\n";\n')
+file.write('\treturn 0;\n')
+file.write('}')
+
+file.close()
+try:
+    os.system('g++ helloworld.cpp -o helloworld.' + sys.argv[1])
+    os.system('./helloworld.' + sys.argv[1])
+except IndexError:
+    os.system('g++ helloworld.cpp -o helloworld')
+    os.system('./helloworld')
