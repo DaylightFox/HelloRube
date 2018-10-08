@@ -7,6 +7,7 @@ All you need to do is simply contribute a hello world script, in any abstract or
 ## Contributors
 Feel free to add your username here :)
 
+* [Bhautik Bharadava](https://github.com/bhautikbharadava)
 * [DaylightFox](https://github.com/DaylightFox)
 * [lokiiarora](https://github.com/lokiiarora)
 * [purenaturalism](https://github.com/purenaturalism)
