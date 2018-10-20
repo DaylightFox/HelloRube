@@ -1,6 +1,8 @@
 # Copyright Henddher Pedroza
 # MIT License
 
+import argparse
+
 art = '''
 # # ### #   #   ###    # # ### ##  #   ##
 # # #   #   #   # #    # # # # # # #   # #
@@ -18,7 +20,16 @@ pxlw = 100/43.0
 pxlh = 90/5.0
 
 svgrect = '''<rect x="{x}%" y="{y}%" width="{pxlw}%"
-height="{pxlh}%" fill="blue" fill-opacity="{fillopacity}"/>'''
+    height="{pxlh}%" fill="blue" fill-opacity="{fillopacity}"/>'''
+svganimatedrect = '''<rect x="{x}%" y="{y}%" width="{pxlw}%"
+    height="{pxlh}%" fill-opacity="{fillopacity}">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+'''
+
 
 svgheader = '''
 <!DOCTYPE html>
@@ -49,14 +60,18 @@ svgfooter = '''
 '''
 
 
-def emit_rect(i, j, fillopacity):
-    print(svgrect.format(
+def emit_rect(i, j, fillopacity, type):
+    if type == 'static':
+        rect = svgrect
+    elif type == 'animated':
+        rect = svganimatedrect
+    print(rect.format(
         x=pxlw/2.0+i*pxlw, y=5+j*pxlh,
         pxlw=pxlw, pxlh=pxlh,
         fillopacity=fillopacity))
 
 
-def gen_rects():
+def gen_rects(type='static'):
     lines = art.splitlines()
     for j, line in enumerate(filter(lambda l: len(l) != 0, lines)):
         for i, char in enumerate(line):
@@ -64,10 +79,18 @@ def gen_rects():
                 fillopacity = '0'
             elif char == '#':
                 fillopacity = '1'
-            emit_rect(i, j, fillopacity)
+            emit_rect(i, j, fillopacity, type)
 
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser(
+            'Hello World SVG Generator (by Henddher Pedroza)')
+    parser.add_argument(
+        '--type', '-t', choices=('static', 'animated'),
+        default='static')
+
+    args = parser.parse_args()
+
     print(svgheader)
-    gen_rects()
+    gen_rects(type=args.type)
     print(svgfooter)
