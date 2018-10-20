@@ -1,0 +1,1691 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+<svg version="1.1"
+    baseProfile="full"
+    width="600" height="200"
+    xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="red" />
+
+  <!--
+  # # ### #   #   ###    # # ### ##  #   ##
+  # # #   #   #   # #    # # # # # # #   # #
+  ### ### #   #   # #    # # # # ##  #   # #
+  # # #   #   #   # #    ### # # # # #   # #
+  # # ### ### ### ###    # # ### # # ### ##
+  -->
+
+
+<rect x="1.1627906976744187%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="3.488372093023256%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="5.813953488372094%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="8.13953488372093%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="10.465116279069768%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="12.790697674418606%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="15.116279069767442%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="17.441860465116278%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="19.767441860465116%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="22.093023255813954%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="24.41860465116279%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="26.74418604651163%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="29.069767441860463%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="31.3953488372093%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="33.72093023255814%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="36.04651162790698%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="38.372093023255815%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="40.69767441860465%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="43.02325581395349%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="45.348837209302324%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="47.674418604651166%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="50.0%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="52.32558139534884%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="54.651162790697676%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="56.97674418604651%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="59.30232558139535%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="61.627906976744185%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="63.95348837209303%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="66.27906976744187%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="68.6046511627907%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="70.93023255813955%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="73.25581395348838%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="75.58139534883722%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="77.90697674418605%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="80.23255813953489%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="82.55813953488374%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="84.88372093023257%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="87.2093023255814%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="89.53488372093024%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="91.86046511627909%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="94.18604651162792%" y="5.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="1.1627906976744187%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="3.488372093023256%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="5.813953488372094%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="8.13953488372093%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="10.465116279069768%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="12.790697674418606%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="15.116279069767442%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="17.441860465116278%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="19.767441860465116%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="22.093023255813954%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="24.41860465116279%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="26.74418604651163%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="29.069767441860463%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="31.3953488372093%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="33.72093023255814%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="36.04651162790698%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="38.372093023255815%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="40.69767441860465%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="43.02325581395349%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="45.348837209302324%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="47.674418604651166%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="50.0%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="52.32558139534884%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="54.651162790697676%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="56.97674418604651%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="59.30232558139535%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="61.627906976744185%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="63.95348837209303%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="66.27906976744187%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="68.6046511627907%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="70.93023255813955%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="73.25581395348838%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="75.58139534883722%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="77.90697674418605%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="80.23255813953489%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="82.55813953488374%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="84.88372093023257%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="87.2093023255814%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="89.53488372093024%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="91.86046511627909%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="94.18604651162792%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="96.51162790697676%" y="23.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="1.1627906976744187%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="3.488372093023256%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="5.813953488372094%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="8.13953488372093%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="10.465116279069768%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="12.790697674418606%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="15.116279069767442%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="17.441860465116278%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="19.767441860465116%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="22.093023255813954%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="24.41860465116279%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="26.74418604651163%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="29.069767441860463%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="31.3953488372093%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="33.72093023255814%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="36.04651162790698%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="38.372093023255815%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="40.69767441860465%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="43.02325581395349%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="45.348837209302324%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="47.674418604651166%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="50.0%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="52.32558139534884%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="54.651162790697676%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="56.97674418604651%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="59.30232558139535%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="61.627906976744185%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="63.95348837209303%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="66.27906976744187%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="68.6046511627907%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="70.93023255813955%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="73.25581395348838%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="75.58139534883722%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="77.90697674418605%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="80.23255813953489%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="82.55813953488374%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="84.88372093023257%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="87.2093023255814%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="89.53488372093024%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="91.86046511627909%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="94.18604651162792%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="96.51162790697676%" y="41.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="1.1627906976744187%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="3.488372093023256%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="5.813953488372094%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="8.13953488372093%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="10.465116279069768%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="12.790697674418606%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="15.116279069767442%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="17.441860465116278%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="19.767441860465116%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="22.093023255813954%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="24.41860465116279%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="26.74418604651163%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="29.069767441860463%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="31.3953488372093%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="33.72093023255814%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="36.04651162790698%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="38.372093023255815%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="40.69767441860465%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="43.02325581395349%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="45.348837209302324%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="47.674418604651166%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="50.0%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="52.32558139534884%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="54.651162790697676%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="56.97674418604651%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="59.30232558139535%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="61.627906976744185%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="63.95348837209303%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="66.27906976744187%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="68.6046511627907%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="70.93023255813955%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="73.25581395348838%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="75.58139534883722%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="77.90697674418605%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="80.23255813953489%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="82.55813953488374%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="84.88372093023257%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="87.2093023255814%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="89.53488372093024%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="91.86046511627909%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="94.18604651162792%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="96.51162790697676%" y="59.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="1.1627906976744187%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="3.488372093023256%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="5.813953488372094%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="8.13953488372093%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="10.465116279069768%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="12.790697674418606%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="15.116279069767442%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="17.441860465116278%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="19.767441860465116%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="22.093023255813954%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="24.41860465116279%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="26.74418604651163%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="29.069767441860463%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="31.3953488372093%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="33.72093023255814%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="36.04651162790698%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="38.372093023255815%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="40.69767441860465%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="43.02325581395349%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="45.348837209302324%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="47.674418604651166%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="50.0%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="52.32558139534884%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="54.651162790697676%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="56.97674418604651%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="59.30232558139535%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="61.627906976744185%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="63.95348837209303%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="66.27906976744187%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="68.6046511627907%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="70.93023255813955%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="73.25581395348838%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="75.58139534883722%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="77.90697674418605%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="80.23255813953489%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="82.55813953488374%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="84.88372093023257%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="87.2093023255814%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="89.53488372093024%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="0">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="91.86046511627909%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+<rect x="94.18604651162792%" y="77.0%" width="2.3255813953488373%"
+    height="18.0%" fill-opacity="1">
+        <animate attributeName="fill" dur="2s"
+            values="deepskyblue;royalblue"
+            repeatCount="indefinite">
+        </animate>
+    </rect>
+
+
+
+<text x="150" y="125"
+    font-size="60" text-anchor="middle" fill="white">SVG</text>
+</svg>
+</body>
+</html>
+
