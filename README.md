@@ -32,4 +32,4 @@ Feel free to add your username here :)
 * [an0n1mpulse](https://github.com/an0n1mpulse)
 * [MauricioLanda](https://github.com/MauricioLanda)
 * [ShannonMCook](https://github.com/shannonmcook)
-
+* [Lashuk1729](https://github.com/Lashuk1729)
