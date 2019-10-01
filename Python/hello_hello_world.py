@@ -10,7 +10,6 @@ dictionary = {0: 'A "Hello, World!" program generally is a computer program that
               9: 'L and Haskell, tend to substitute a factorial program for Hello, World, as functional programming em',
               10: 'phasizes recursive techniques.[1]'}
 
-# print(''.join(list(dictionary.values())))
 
 output = ''.join([chr(len(s)) for s in list(dictionary.values())])
 
