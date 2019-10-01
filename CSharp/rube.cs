@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -31,9 +32,11 @@ namespace Rube
 
         private async IAsyncEnumerable<char> GetChars(byte[] array)
         {
-            foreach (var c in array)
+            var tasks = array.Select(x => this._converter.ConvertAsync(x));
+
+            foreach (var task in tasks)
             {
-                yield return await this._converter.ConvertAsync(c);
+                yield return await task;
             }
         }
     }
