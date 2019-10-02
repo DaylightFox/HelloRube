@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spooky scary skeletons</title>
+    </head>
+    <body>
+        <h1 id="h"></h1>
+        <img src="assets/1.gif" id="skeleton">
+
+
+        <script>
+            let i = 1;
+            let string = "Hello,world!Wearethespookyscaryskeletons!";
+            let x = 0;
+
+            let a = string.split("");
+            setInterval(() => {
+                i++;
+                if (i === 32)
+                i = 1;
+                document.getElementById("skeleton").src = `assets/${i}.gif`;  
+            }, 41);
+
+            setInterval(() => {
+                document.getElementById("h").innerText += a[x];
+                x++;
+                if (document.getElementById("h").innerText === string) {
+                document.getElementById("h").innerText = "";
+                x = 0;
+                }
+            }, 100)
+        </script>
+    </body>
+</html>
