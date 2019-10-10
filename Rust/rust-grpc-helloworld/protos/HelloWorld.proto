@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package HelloWorld;
+
+service HelloWorld {
+  rpc SendHello (Hello) returns (World) {}
+}
+
+message World {
+  string content = 1;
+}
+
+message Hello {
+  string content = 1;
+}
+
